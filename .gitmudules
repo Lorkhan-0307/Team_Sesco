@@ -1,0 +1,4 @@
+[submodule "/yolov5"]
+	ignore = untracked
+[submodule "yolov5"]
+	ignore = untracked
